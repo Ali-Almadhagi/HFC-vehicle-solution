@@ -1,0 +1,14 @@
+
+Manufacturer:  ford
+Price: 155000.0
+Wheels: 0
+Doors: 4
+Horsepower:  700
+Passengers:  7
+Crash Rating:  9
+Model:  model
+Towing Capacity:  1.0
+Cargo Capacity:  1.0
+Bedliner:  false
+Type:  towing
+---------------------------------------
