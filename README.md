@@ -2,7 +2,7 @@
 
 This program allows users to create, view, and print a list of vehicles.
 
-#Features
+# Features
 Vehicle creation: Users can create vehicles of four different types: truck, SUV, motorcycle, and car. When creating a vehicle, users must specify the manufacturer, model name, price, number of wheels, number of doors, horsepower, number of passengers, and crash rating.
 Vehicle viewing: Users can view a list of all vehicles that have been created. The list is displayed in a table format, with each row representing a single vehicle. The table includes the following columns: manufacturer, model name, price, number of wheels, number of doors, horsepower, number of passengers, and crash rating.
 Vehicle printing: Users can print a list of all vehicles that have been created. The list is printed to the console in a table format, with each row representing a single vehicle. The table includes the same columns as the vehicle viewing feature.
